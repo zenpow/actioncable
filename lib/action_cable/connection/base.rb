@@ -228,7 +228,6 @@ module ActionCable
             env["REQUEST_METHOD"], env["HTTP_CONNECTION"], env["HTTP_UPGRADE"]
           ]
         end
-        end
     end
   end
 end
